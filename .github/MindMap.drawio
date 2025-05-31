@@ -264,6 +264,47 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-1" value="Self-Serve Technologies" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="640" y="470" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucyAqsGgwnfTT-UJVePK-2" target="ucyAqsGgwnfTT-UJVePK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-2" value="Current WS" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.website;" vertex="1" parent="1">
+          <mxGeometry x="60" y="70" width="59" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.workflow2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-4" value="Ministry Platform" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.buffer;fillColor=#221F1F;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="70.4" height="60.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-5" value="PDS" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230.4" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.26;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ucyAqsGgwnfTT-UJVePK-6" target="ucyAqsGgwnfTT-UJVePK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/filesystems/file_broken.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="74.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-9" value="Self-Serve Technologies" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucyAqsGgwnfTT-UJVePK-10" target="ucyAqsGgwnfTT-UJVePK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-10" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;bpmnShapeType=call;taskMarker=manual;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ucyAqsGgwnfTT-UJVePK-10" target="ucyAqsGgwnfTT-UJVePK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-15" value="Current eCatholic website requires manual steps to complete activities.&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;As PDS is replaced by Ministry Platform, new self-service pages will need to be created. Goal is to replace Google sheets with something which calls MP APIs and directly enters data.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="310" height="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
