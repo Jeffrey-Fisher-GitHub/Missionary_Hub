@@ -264,8 +264,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-12" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="ucyAqsGgwnfTT-UJVePK-1" target="cNQTvlseJS1ZMvXX-jn2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ucyAqsGgwnfTT-UJVePK-1" value="Self-Serve Technologies" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="640" y="470" width="170" height="30" as="geometry" />
+          <mxGeometry x="660" y="329" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ucyAqsGgwnfTT-UJVePK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucyAqsGgwnfTT-UJVePK-2" target="ucyAqsGgwnfTT-UJVePK-6">
           <mxGeometry relative="1" as="geometry" />
@@ -326,13 +329,28 @@
           <mxGeometry x="20" y="210" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cNQTvlseJS1ZMvXX-jn2-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Website_Staging.svg;" vertex="1" parent="1">
-          <mxGeometry x="490" y="220" width="64" height="70" as="geometry" />
+          <mxGeometry x="190" y="368" width="64" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cNQTvlseJS1ZMvXX-jn2-8" value="New Website" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.website" vertex="1" parent="1">
-          <mxGeometry x="600" y="210.8" width="81.65" height="79.2" as="geometry" />
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-8" value="New Website - CatholicPhoenixville.org?" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.website" vertex="1" parent="1">
+          <mxGeometry x="490" y="304.4" width="81.65" height="79.2" as="geometry" />
         </mxCell>
-        <mxCell id="cNQTvlseJS1ZMvXX-jn2-9" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-11" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="cNQTvlseJS1ZMvXX-jn2-9" target="cNQTvlseJS1ZMvXX-jn2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-9" value="APIs" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="360.2" y="320" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-13" value="2. All self service activities are directed from new website CatholicPhoenixville.org.for the area parishes. This enables sharing of data between parishes.&lt;div&gt;site shows the 5 parishes, event calendars social media feeds, and serl-service.&amp;nbsp; Also, feeds from social media of Archdiocese, Vatican, Philly Catholic, and links.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Links to self-service for all parishes.&amp;nbsp; -- This creates a gap between platforms for all the parishes, but if everyone is first wave, this should not be a large issue. Lots of benefits of this site and Parish shared knowledge.&amp;nbsp; We will know who - is attending what Masses and registered where quickly, who is registered in multiple parishes, etc.&lt;/div&gt;&lt;div&gt;Also, if gives the hub an identity.&amp;nbsp;&lt;/div&gt;&lt;div&gt;It gives the Ambassadors insight to help people find where the activity they want to participate is.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="383.6" width="240" height="276.4" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-14" value="3. Saint Ann&#39;s moves to MP.&lt;div&gt;replatforming of self-service is a redirect to Catholic Phoenixville.org.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="210" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-15" value="Ministry Platform" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.buffer;fillColor=#221F1F;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry x="339.8" y="430" width="70.4" height="60.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-16" value="4. MP rollout of St. Marys and other Phoenixville Area Parishes." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="438" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
