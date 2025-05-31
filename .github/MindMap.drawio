@@ -323,12 +323,24 @@
           <mxGeometry x="239.39999999999998" y="220" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="cNQTvlseJS1ZMvXX-jn2-5" value="1. Migrate off PDS to Ministry Platform.&lt;div&gt;This will break all current self-serve pages.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="210" width="210" height="70" as="geometry" />
+          <mxGeometry x="62" y="188" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cNQTvlseJS1ZMvXX-jn2-7" target="cNQTvlseJS1ZMvXX-jn2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.186;entryY=0.889;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cNQTvlseJS1ZMvXX-jn2-7" target="cNQTvlseJS1ZMvXX-jn2-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="355" />
+              <mxPoint x="320" y="410" />
+              <mxPoint x="505" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cNQTvlseJS1ZMvXX-jn2-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Website_Staging.svg;" vertex="1" parent="1">
-          <mxGeometry x="40" y="350" width="64" height="70" as="geometry" />
+          <mxGeometry x="217.4" y="320" width="64" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cNQTvlseJS1ZMvXX-jn2-8" value="New Website - CatholicPhoenixville.org?" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.website" vertex="1" parent="1">
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-8" value="New Website -&amp;nbsp;&lt;div&gt;CatholicPhoenixville.org?&lt;/div&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.website" vertex="1" parent="1">
           <mxGeometry x="490" y="304.4" width="81.65" height="79.2" as="geometry" />
         </mxCell>
         <mxCell id="cNQTvlseJS1ZMvXX-jn2-11" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="cNQTvlseJS1ZMvXX-jn2-9" target="cNQTvlseJS1ZMvXX-jn2-8">
@@ -349,11 +361,8 @@
         <mxCell id="cNQTvlseJS1ZMvXX-jn2-16" value="4. MP rollout of St. Marys and other Phoenixville Area Parishes." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430.83" y="450" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cNQTvlseJS1ZMvXX-jn2-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="610" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cNQTvlseJS1ZMvXX-jn2-18" value="5. Update the Saint Ann&#39;s parish website.&lt;div&gt;Link all self-service activities. Ensure all ties to MP are completed&lt;/div&gt;&lt;div&gt;Link all social media&lt;/div&gt;&lt;div&gt;Clean up site.&lt;/div&gt;&lt;div&gt;Incorporate Missionary Goals into the site.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=0;strokeColor=none;fillColor=none;imageWidth=16;imageHeight=18;expand=1;fixedWidth=1;whiteSpace=wrap;resizeWidth=1;resizeHeight=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="540" width="370" height="100" as="geometry" />
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-18" value="5. Update the Saint Ann&#39;s parish website.&lt;div&gt;Link all self-service activities. Ensure all ties to MP are completed&lt;/div&gt;&lt;div&gt;Link all social media&lt;/div&gt;&lt;div&gt;Clean up site.&lt;/div&gt;&lt;div&gt;Incorporate Missionary Goals into the site.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=0;strokeColor=none;fillColor=none;imageWidth=16;imageHeight=18;expand=1;fixedWidth=0;whiteSpace=wrap;resizeWidth=0;resizeHeight=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="219.8" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
