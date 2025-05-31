@@ -276,9 +276,6 @@
         <mxCell id="ucyAqsGgwnfTT-UJVePK-2" value="Current WS" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.website;" vertex="1" parent="1">
           <mxGeometry x="60" y="70" width="59" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ucyAqsGgwnfTT-UJVePK-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.workflow2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="420" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="cNQTvlseJS1ZMvXX-jn2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucyAqsGgwnfTT-UJVePK-4" target="cNQTvlseJS1ZMvXX-jn2-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -329,7 +326,7 @@
           <mxGeometry x="20" y="210" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cNQTvlseJS1ZMvXX-jn2-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Website_Staging.svg;" vertex="1" parent="1">
-          <mxGeometry x="190" y="368" width="64" height="70" as="geometry" />
+          <mxGeometry x="40" y="350" width="64" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cNQTvlseJS1ZMvXX-jn2-8" value="New Website - CatholicPhoenixville.org?" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.website" vertex="1" parent="1">
           <mxGeometry x="490" y="304.4" width="81.65" height="79.2" as="geometry" />
@@ -350,7 +347,13 @@
           <mxGeometry x="339.8" y="430" width="70.4" height="60.400000000000006" as="geometry" />
         </mxCell>
         <mxCell id="cNQTvlseJS1ZMvXX-jn2-16" value="4. MP rollout of St. Marys and other Phoenixville Area Parishes." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="438" width="200" height="30" as="geometry" />
+          <mxGeometry x="430.83" y="450" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-18" value="5. Update the Saint Ann&#39;s parish website." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="104.8" y="368" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
