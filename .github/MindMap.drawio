@@ -274,10 +274,13 @@
           <mxGeometry x="60" y="70" width="59" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ucyAqsGgwnfTT-UJVePK-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.workflow2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="350" width="60" height="60" as="geometry" />
+          <mxGeometry x="30" y="420" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ucyAqsGgwnfTT-UJVePK-4" value="Ministry Platform" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.buffer;fillColor=#221F1F;strokeColor=none" vertex="1" parent="1">
-          <mxGeometry x="160" y="270" width="70.4" height="60.400000000000006" as="geometry" />
+          <mxGeometry x="350" y="210.8" width="70.4" height="60.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucyAqsGgwnfTT-UJVePK-5" target="cNQTvlseJS1ZMvXX-jn2-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ucyAqsGgwnfTT-UJVePK-5" value="PDS" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230.4" y="130" width="60" height="60" as="geometry" />
@@ -302,8 +305,25 @@
         <mxCell id="ucyAqsGgwnfTT-UJVePK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ucyAqsGgwnfTT-UJVePK-10" target="ucyAqsGgwnfTT-UJVePK-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ucyAqsGgwnfTT-UJVePK-15" value="Current eCatholic website requires manual steps to complete activities.&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;As PDS is replaced by Ministry Platform, new self-service pages will need to be created. Goal is to replace Google sheets with something which calls MP APIs and directly enters data.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="30" width="310" height="240" as="geometry" />
+        <mxCell id="ucyAqsGgwnfTT-UJVePK-15" value="Current eCatholic website requires manual steps to complete activities.&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;As PDS is replaced by Ministry Platform, new self-service pages will need to be created.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Automation will be a kludge.&lt;/div&gt;&lt;div&gt;eCatholic site using an outdated skin.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Goal is to replace Google sheets with something which calls MP APIs and directly enters data.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="110" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cNQTvlseJS1ZMvXX-jn2-2" target="ucyAqsGgwnfTT-UJVePK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="248.4000000000001" y="263" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-2" value="Migrate" style="sketch=0;html=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=image;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJzdmcxMjg2OTQiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDE2NC42MDYyOCAxNjMuMTgzNTUiIGhlaWdodD0iMTYzLjE4MzU1bW0iIHdpZHRoPSIxNjQuNjA2MjhtbSI+JiN4YTsgICYjeGE7ICA8ZGVmcyBpZD0iZGVmczEyODY5MSIvPiYjeGE7ICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjIuODEzNTk0LC02Ny4zMzgwMDgpIiBpZD0ibGF5ZXIxIj4mI3hhOyAgICA8cGF0aCBpZD0icmVjdDEyODg1MCIgZD0iTSA4Mi4yODI4MzEsNjcuMzM4MDA4IFYgODYuMTMyNzI3IEggNjguOTEyMDcyIEEgNi4wMDA1OTk5LDYuMDAwNTk5OSAwIDAgMCA2Mi45MTE5Miw5Mi4xMzI4NzYgViAxMDQuNzMyNjIgSCA0NC4xODMzNSB2IDEwLjk5OTg1IGggMTguNzI4NTcgdiAxNy4yNDM5MSBIIDQ0LjE4MzM1IHYgMTEuMDAwMzYgaCAxOC43Mjg1NyB2IDcuNTI2NjcgYSAzOS41MTI2MDcsMzkuNTEyNjA3IDAgMCAwIC0wLjU4NjAwOSwtMC4wMDcgMzkuNTEyNjA3LDM5LjUxMjYwNyAwIDAgMCAtMzkuNTEyMzE3LDM5LjUxMjgzIDM5LjUxMjYwNywzOS41MTI2MDcgMCAwIDAgMzkuNTEyMzE3LDM5LjUxMjMyIDM5LjUxMjYwNywzOS41MTI2MDcgMCAwIDAgMzkuNTEyODI5LC0zOS41MTIzMiAzOS41MTI2MDcsMzkuNTEyNjA3IDAgMCAwIC0wLjAwOSwtMC43NDE1NiBoIDguOTk0OCB2IDE4LjQ3NjkxIGggMTAuOTk5ODUgdiAtMTguNDc2OTEgaCAxNy4yMDEwMSB2IDE4LjQ3NjkxIGggMTEuMDAwMzcgViAxOTAuMjY3NjggSCAxNjIuODg3IGEgNi4wMDA1OTk5LDYuMDAwNTk5OSAwIDAgMCA1Ljk5OTYzLC01Ljk5OTYzIHYgLTExLjk1OTQ4IGggMTguNTMzMjQgViAxNjEuMzA4NSBoIC0xOC41MzMyNCB2IC0xNy4zMzE3NiBoIDE4LjUzMzI0IHYgLTExLjAwMDM2IGggLTE4LjUzMzI0IHYgLTE3LjI0MzkxIGggMTguNTMzMjQgViAxMDQuNzMyNjIgSCAxNjguODg2MzMgViA5Mi4xMzI4NzYgQSA2LjAwMDU5OTksNi4wMDA1OTk5IDAgMCAwIDE2Mi44ODY3LDg2LjEzMjcyNyBIIDE1MC4wMjU0NyBWIDY3LjMzODAwOCBIIDEzOS4wMjUxIFYgODYuMTMyNzI3IEggMTIxLjgyNDA5IFYgNjcuMzM4MDA4IEggMTEwLjgyNDI0IFYgODYuMTMyNzI3IEggOTMuMjgzMTk1IFYgNjcuMzM4MDA4IFoiIHN0eWxlPSJjb2xvcjojMDAwMDAwO29wYWNpdHk6MTtmaWxsOiM0Mjg1ZjQ7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlLXdpZHRoOjE7c3Ryb2tlLWxpbmVqb2luOnJvdW5kOy1pbmtzY2FwZS1zdHJva2U6bm9uZSIvPiYjeGE7ICAgIDxwYXRoIGQ9Im0gNjEuMjMyNDIyLDE2Ny45Mjc3MyAtNy42ODU1NDcsNy44NzExIDEwLjg1MTU2MiwxMC41OTE3OSBIIDM4LjQ0MzM1OSB2IDExIGggMjYuMzg4NjcyIGwgLTExLjM3NSwxMS42MjY5NiA3Ljg2NTIzNSw3LjY5MTQgMjQuMzY1MjM0LC0yNC45MDgyIHogbSAxMy42Nzk4LC02OS43OTQ3MDQgSCAxNTYuODg2NTUgViAxNzguMjY3NjcgSCA5OS43MjU2OTYgQSAzOS41MTI2MDcsMzkuNTEyNjA3IDAgMCAwIDc0LjkxMjIyMiwxNTMuNTU3NTUgWiIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7b3BhY2l0eToxO2ZpbGw6I2ZmZmZmZjtmaWxsLW9wYWNpdHk6MTstaW5rc2NhcGUtc3Ryb2tlOm5vbmUiIGlkPSJwYXRoMTI5MDEwIi8+JiN4YTsgICAgPHBhdGggaWQ9InBhdGgxNDA4NDAiIGQ9Im0gOTUuNjU5Mjc3LDExOC43MjUwNSB2IDM5LjY5OTkgaCA0MC44MjMzNDMgdiAtMzkuNjk5OSB6IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtvcGFjaXR5OjE7ZmlsbDojNDI4NWY0O2ZpbGwtb3BhY2l0eToxO3N0cm9rZS13aWR0aDoxO3N0cm9rZS1saW5lam9pbjpyb3VuZDstaW5rc2NhcGUtc3Ryb2tlOm5vbmUiLz4mI3hhOyAgPC9nPiYjeGE7PC9zdmc+;" vertex="1" parent="1">
+          <mxGeometry x="239.39999999999998" y="220" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-5" value="1. Migrate off PDS to Ministry Platform.&lt;div&gt;This will break all current self-serve pages.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="210" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Website_Staging.svg;" vertex="1" parent="1">
+          <mxGeometry x="230.4" y="330" width="64" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
