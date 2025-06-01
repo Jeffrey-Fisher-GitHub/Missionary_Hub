@@ -340,8 +340,11 @@
         <mxCell id="cNQTvlseJS1ZMvXX-jn2-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Website_Staging.svg;" vertex="1" parent="1">
           <mxGeometry x="217.4" y="320" width="64" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cNQTvlseJS1ZMvXX-jn2-8" value="New Website -&amp;nbsp;&lt;div&gt;CatholicPhoenixville.org?&lt;/div&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.website" vertex="1" parent="1">
-          <mxGeometry x="490" y="304.4" width="81.65" height="79.2" as="geometry" />
+        <mxCell id="F_whxD7ahzJs5gil64kM-1" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cNQTvlseJS1ZMvXX-jn2-8" target="cNQTvlseJS1ZMvXX-jn2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQTvlseJS1ZMvXX-jn2-8" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;New Website -&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;CatholicPhoenixville.org?&lt;/span&gt;&lt;/div&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.website" vertex="1" parent="1">
+          <mxGeometry x="489" y="304.4" width="81.65" height="79.2" as="geometry" />
         </mxCell>
         <mxCell id="cNQTvlseJS1ZMvXX-jn2-11" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="cNQTvlseJS1ZMvXX-jn2-9" target="cNQTvlseJS1ZMvXX-jn2-8">
           <mxGeometry relative="1" as="geometry" />
